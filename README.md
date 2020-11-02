@@ -14,11 +14,6 @@ https://partender810.hatenablog.com/entry/2020/11/01/233534
 :web
 --unreadable2
 
-:OSINT
---Address
---kaishuu
---station
-
 :kyopro
 --Let's play Nim
 問題実行ファイルGame
